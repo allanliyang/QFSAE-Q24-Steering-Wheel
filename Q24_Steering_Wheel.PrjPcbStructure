@@ -1,5 +1,5 @@
-Record=TopLevelDocument|FileName=CAN.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Connectors.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=MCU.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Power.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=Top.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=MCU.SchDoc|SheetNumber=4
+Record=SheetSymbol|SourceDocument=MCU.SchDoc|Designator=U_CAN|SchDesignator=U_CAN|FileName=CAN.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=CAN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=Connectors.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=MCU.SchDoc|FileName=Top.SchDoc|SheetNumber=1
