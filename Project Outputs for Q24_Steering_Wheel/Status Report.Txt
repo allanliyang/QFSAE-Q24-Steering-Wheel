@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [Q24_Steering_Wheel.PrjPcb]
+   Generated File[Q24_Steering_Wheel.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:24:03 PM On 2023-09-16
